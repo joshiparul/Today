@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: LogStreamingmicroservice  
-    #This name will be registered in Service discovery  
-info:
-  description: ATOM Log Streaming Microservice 
